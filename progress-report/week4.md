@@ -1,0 +1,3 @@
+Sửa dữ liệu vào database từ controller
+Xóa dữ liệu vào database từ controller
+Gửi dữ liệu lên giao diện để hiển thị ra
